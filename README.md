@@ -9,9 +9,9 @@
 **Data visualization:** Excel<br/>
 
 - **Creating an exploratory dashboard to help obtain the following information:** <br/>
-- How sales vary by each months, days and hours<br/>
-- Determine peak times for sales<br/>
-- Best selling products in terms of quantity and revenue<br/>
-- Determine hourly & daily footfall<br/>
-- How sales vary by product category and type<br/>
-
+1. How sales vary by each months, days and hours<br/>
+2. Determine peak times for sales<br/>
+3. Best selling products in terms of quantity and revenue<br/>
+4. Determine hourly & daily footfall<br/>
+5. How sales vary by product category and type<br/>
+6. Customers Preferences in coffee size
